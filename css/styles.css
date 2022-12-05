@@ -64,13 +64,13 @@ p {
     background-color: #9c538b;
 }
 
-.live p a {
-    color: lightseagreen;
+.live p a:link {
+    color: #ef8354;
     text-decoration: none;
 }
 
 .live a:visited {
-    color: #ef8354;
+    color: lightseagreen;
 }
 
 
