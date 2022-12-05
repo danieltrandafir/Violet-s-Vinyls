@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    }
+
+body {
+    background-color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+    margin-left: 5px;
+}
+
+header {
+    background: url(/img/Records.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    margin: 60px 0 60px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+img {
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 40px;
+}
+
+.selection h2 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+    background-color: #ef8354;
+}
+
+.selection p span {
+    font-weight: 700;
+}
+
+.selling h2 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+    background-color: #0e7c7b;
+}
+
+.selling img {
+    height: 320px;
+}
+
+.live h2 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+    background-color: #9c538b;
+}
+
+.live p a {
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+.live a:visited {
+    color: #ef8354;
+}
+
+
+.live a:hover {
+    color: #9c528b;
+}
+
+footer {
+    line-height: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
