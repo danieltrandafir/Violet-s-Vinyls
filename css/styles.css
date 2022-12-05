@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background: url(/img/Records.jpg);
+    background: url(../img/Records.jpg);
     background-size: cover;
 }
 
